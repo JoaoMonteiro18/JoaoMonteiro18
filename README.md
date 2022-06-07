@@ -1,8 +1,8 @@
 ## Oi, eu sou o João Paulo!
 
-- 💻 Estudando: Sistemas de Informação
-- 👦🏽 Pronouns: Ele/Dele
-- 💙 Principal: Análise De Dados
+- 💻 Cursando: Sistemas de Informação - USJT
+- 👦🏽 Pronomes: Ele/Dele
+- 🔥 Estudando: Análise De Dados
 
 <div align="center">
   <a href="https://github.com/JoaoMonteiro18">
