@@ -4,7 +4,7 @@
 - 👦🏽 Pronomes: Ele/Dele
 - 🔥 Estudando: Análise De Dados
 
-<div align="center">
+<div align="">
   <a href="https://github.com/JoaoMonteiro18">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMonteiro18&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMonteiro18&layout=compact&langs_count=7&theme=chartreuse-dark"/>
